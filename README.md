@@ -41,7 +41,7 @@ mvnw spring-boot:run
 http://localhost:8080
 ```
 
-## 📋 主な機能
+## 主な機能
 
 ### 1. データベース接続情報の表示
 - リアルタイムで接続状態を確認
@@ -71,7 +71,7 @@ http://localhost:8080
 - ユーザー名: `sa`
 - パスワード: (空)
 
-## 🗂️ プロジェクト構成
+## プロジェクト構成
 
 ```
 src/main/java/com/example/database_connection/
